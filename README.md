@@ -15,7 +15,7 @@
 <br/>
 
 <p align="center">
-  📱 Pantau kesehatan emosional harianmu &nbsp;·&nbsp; 🤝 Terhubung dengan teman &nbsp;·&nbsp; 🧘 Konten mindfulness & meditasi &nbsp;·&nbsp; ⭐ Fitur Premium eksklusif
+  📱 Pantau kesehatan emosional harianmu &nbsp;·&nbsp; 🤝 Terhubung dengan teman &nbsp;·&nbsp; 🧘 Konten mindfulness & meditasi &nbsp;·&nbsp; ⭐ Fitur Premium eksklusif terbatas yang memberikan pengalaman barus
 </p>
 
 <hr/>
